@@ -1,0 +1,11 @@
+link: http://overthewire.org/wargames/natas/
+
+
+http://natas0.natas.labs.overthewire.org
+* **user: natas0**
+* **pass: natas0**
+
+http://natas1.natas.labs.overthewire.org
+* **user: natas1**
+* **pass: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi**
+
