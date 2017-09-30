@@ -1,0 +1,12 @@
+pasos para configurar y usar con gqrx 
+
+hackrf_info
+
+instalar el paquete en la terminal 
+sudo apt-get install gqrx-sdr
+despues escribir en la terminal 
+gprx
+y configurar el programa
+seleccionamos el hackrf one 
+
+introducimos la frecuencia y ya
