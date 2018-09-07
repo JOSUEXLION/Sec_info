@@ -1,0 +1,12 @@
+Descifrando la monedita de monero 
+Lo primero que hice fue buscar los twitter de todos los que están en la moneda 
+@fluffypony  @elasticninja @mymonero 
+1-	Al ver el código de la parte de adelante note esto 
+70656c636762207a726e61662070656c636762207a726e >
+
+2-	Los traduci de hexa to ASCII y el resultado fue esto (https://www.rapidtables.com/convert/number/ascii-to-hex.html)
+pelcgb zrnaf pelcgb zrn
+
+3-	Después traduci de ASCII to ROT13 y este fue el resultado  (https://www.rot13.com/)
+crypto means crypto mea 
+
